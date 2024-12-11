@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "date": "2024-12-10",
+        "amount": 250.75,
+        "customer_id": 1
+    },
+    {
+        "id": 2,
+        "date": "2024-11-27",
+        "amount": 89.99,
+        "customer_id": 1
+    },
+    {
+        "id": 3,
+        "date": "2024-10-22",
+        "amount": 500.00,
+        "customer_id": 1
+    },
+    {
+        "id": 4,
+        "date": "2024-09-15 ",
+        "amount": 32.50,
+        "customer_id": 23
+    },
+    {
+        "id": 5,
+        "date": "2024-08-08 ",
+        "amount": 120.99,
+        "customer_id": 56
+    },
+    {
+        "id": 6,
+        "date": "2024-07-20 ",
+        "amount": 900.00,
+        "customer_id": 89
+    },
+    {
+        "id": 7,
+        "date": "2024-06-02 ",
+        "amount": 15.75,
+        "customer_id": 34
+    },
+    {
+        "id": 8,
+        "date": "2024-05-14 ",
+        "amount": 280.30,
+        "customer_id": 61
+    },
+    {
+        "id": 9,
+        "date": "2024-04-30 ",
+        "amount": 67.89,
+        "customer_id": 78
+    },
+    {
+        "id": 10,
+        "date": "2024-03-19 ",
+        "amount": 345.67,
+        "customer_id": 11
+    },
+    {
+        "id": 11,
+        "date": "2024-02-10 ",
+        "amount": 99.99,
+        "customer_id": 32
+    },
+    {
+        "id": 12,
+        "date": "2024-01-25 ",
+        "amount": 450.25,
+        "customer_id": 21
+    },
+    {
+        "id": 13,
+        "date": "2023-12-19 ",
+        "amount": 72.40,
+        "customer_id": 15
+    },
+    {
+        "id": 14,
+        "date": "2023-11-05 ",
+        "amount": 23.99,
+        "customer_id": 8
+    },
+    {
+        "id": 15,
+        "date": "2023-10-10",
+        "amount": 189.45,
+        "customer_id": 4
+    }
+]
